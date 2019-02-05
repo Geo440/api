@@ -1,129 +1,129 @@
 [
         {
-            'name' : 'June 2018',
-            'info' : '5 Photos',
-            'media': [
+            "name" : "June 2018",
+            "info" : "5 Photos",
+            "media": [
                 {
-                    'type'   : 'photo',
-                    'title'  : 'A Walk Amongst Friends',
-                    'preview': 'assets/images/profile/a-walk-amongst-friends-small.jpg'
+                    "type"   : "photo",
+                    "title"  : "A Walk Amongst Friends",
+                    "preview": "assets/images/profile/a-walk-amongst-friends-small.jpg"
                 },
                 {
-                    'type'   : 'photo',
-                    'title'  : 'Braies Lake',
-                    'preview': 'assets/images/profile/braies-lake-small.jpg'
+                    "type"   : "photo",
+                    "title"  : "Braies Lake",
+                    "preview": "assets/images/profile/braies-lake-small.jpg"
                 },
                 {
-                    'type'   : 'photo',
-                    'title'  : 'Fall Glow',
-                    'preview': 'assets/images/profile/fall-glow-small.jpg'
+                    "type"   : "photo",
+                    "title"  : "Fall Glow",
+                    "preview": "assets/images/profile/fall-glow-small.jpg"
                 },
                 {
-                    'type'   : 'photo',
-                    'title'  : 'First Snow',
-                    'preview': 'assets/images/profile/first-snow-small.jpg'
+                    "type"   : "photo",
+                    "title"  : "First Snow",
+                    "preview": "assets/images/profile/first-snow-small.jpg"
                 },
                 {
-                    'type'   : 'photo',
-                    'title'  : 'Lago di Braies',
-                    'preview': 'assets/images/profile/lago-di-braies-small.jpg'
+                    "type"   : "photo",
+                    "title"  : "Lago di Braies",
+                    "preview": "assets/images/profile/lago-di-braies-small.jpg"
                 }
             ]
         },
         {
-            'name' : 'May 2018',
-            'info' : '7 Photos, 3 Videos',
-            'media': [
+            "name" : "May 2018",
+            "info" : "7 Photos, 3 Videos",
+            "media": [
                 {
-                    'type'   : 'photo',
-                    'title'  : 'Lago di Sorapis',
-                    'preview': 'assets/images/profile/lago-di-sorapis-small.jpg'
+                    "type"   : "photo",
+                    "title"  : "Lago di Sorapis",
+                    "preview": "assets/images/profile/lago-di-sorapis-small.jpg"
                 },
                 {
-                    'type'   : 'photo',
-                    'title'  : 'Morain Lake',
-                    'preview': 'assets/images/profile/morain-lake-small.jpg'
+                    "type"   : "photo",
+                    "title"  : "Morain Lake",
+                    "preview": "assets/images/profile/morain-lake-small.jpg"
                 },
                 {
-                    'type'   : 'photo',
-                    'title'  : 'Never Stop Changing',
-                    'preview': 'assets/images/profile/never-stop-changing-small.jpg'
+                    "type"   : "photo",
+                    "title"  : "Never Stop Changing",
+                    "preview": "assets/images/profile/never-stop-changing-small.jpg"
                 },
                 {
-                    'type'   : 'photo',
-                    'title'  : 'Reaching',
-                    'preview': 'assets/images/profile/reaching-small.jpg'
+                    "type"   : "photo",
+                    "title"  : "Reaching",
+                    "preview": "assets/images/profile/reaching-small.jpg"
                 },
                 {
-                    'type'   : 'photo',
-                    'title'  : 'Yosemite',
-                    'preview': 'assets/images/profile/yosemite-small.jpg'
+                    "type"   : "photo",
+                    "title"  : "Yosemite",
+                    "preview": "assets/images/profile/yosemite-small.jpg"
                 },
                 {
-                    'type'   : 'photo',
-                    'title'  : 'A Walk Amongst Friends',
-                    'preview': 'assets/images/profile/a-walk-amongst-friends-small.jpg'
+                    "type"   : "photo",
+                    "title"  : "A Walk Amongst Friends",
+                    "preview": "assets/images/profile/a-walk-amongst-friends-small.jpg"
                 },
                 {
-                    'type'   : 'photo',
-                    'title'  : 'Braies Lake',
-                    'preview': 'assets/images/profile/braies-lake-small.jpg'
+                    "type"   : "photo",
+                    "title"  : "Braies Lake",
+                    "preview": "assets/images/profile/braies-lake-small.jpg"
                 },
                 {
-                    'type'   : 'photo',
-                    'title'  : 'Fall Glow',
-                    'preview': 'assets/images/profile/fall-glow-small.jpg'
+                    "type"   : "photo",
+                    "title"  : "Fall Glow",
+                    "preview": "assets/images/profile/fall-glow-small.jpg"
                 },
                 {
-                    'type'   : 'photo',
-                    'title'  : 'First Snow',
-                    'preview': 'assets/images/profile/first-snow-small.jpg'
+                    "type"   : "photo",
+                    "title"  : "First Snow",
+                    "preview": "assets/images/profile/first-snow-small.jpg"
                 },
                 {
-                    'type'   : 'photo',
-                    'title'  : 'Lago di Braies',
-                    'preview': 'assets/images/profile/lago-di-braies-small.jpg'
+                    "type"   : "photo",
+                    "title"  : "Lago di Braies",
+                    "preview": "assets/images/profile/lago-di-braies-small.jpg"
                 }
             ]
         },
         {
-            'name' : 'April 2018',
-            'info' : '7 Photos',
-            'media': [
+            "name" : "April 2018",
+            "info" : "7 Photos",
+            "media": [
                 {
-                    'type'   : 'photo',
-                    'title'  : 'Lago di Sorapis',
-                    'preview': 'assets/images/profile/lago-di-sorapis-small.jpg'
+                    "type"   : "photo",
+                    "title"  : "Lago di Sorapis",
+                    "preview": "assets/images/profile/lago-di-sorapis-small.jpg"
                 },
                 {
-                    'type'   : 'photo',
-                    'title'  : 'Morain Lake',
-                    'preview': 'assets/images/profile/morain-lake-small.jpg'
+                    "type"   : "photo",
+                    "title"  : "Morain Lake",
+                    "preview": "assets/images/profile/morain-lake-small.jpg"
                 },
                 {
-                    'type'   : 'photo',
-                    'title'  : 'Never Stop Changing',
-                    'preview': 'assets/images/profile/never-stop-changing-small.jpg'
+                    "type"   : "photo",
+                    "title"  : "Never Stop Changing",
+                    "preview": "assets/images/profile/never-stop-changing-small.jpg"
                 },
                 {
-                    'type'   : 'photo',
-                    'title'  : 'Reaching',
-                    'preview': 'assets/images/profile/reaching-small.jpg'
+                    "type"   : "photo",
+                    "title"  : "Reaching",
+                    "preview": "assets/images/profile/reaching-small.jpg"
                 },
                 {
-                    'type'   : 'photo',
-                    'title'  : 'Yosemite',
-                    'preview': 'assets/images/profile/yosemite-small.jpg'
+                    "type"   : "photo",
+                    "title"  : "Yosemite",
+                    "preview": "assets/images/profile/yosemite-small.jpg"
                 },
                 {
-                    'type'   : 'photo',
-                    'title'  : 'A Walk Amongst Friends',
-                    'preview': 'assets/images/profile/a-walk-amongst-friends-small.jpg'
+                    "type"   : "photo",
+                    "title"  : "A Walk Amongst Friends",
+                    "preview": "assets/images/profile/a-walk-amongst-friends-small.jpg"
                 },
                 {
-                    'type'   : 'photo',
-                    'title'  : 'Braies Lake',
-                    'preview': 'assets/images/profile/braies-lake-small.jpg'
+                    "type"   : "photo",
+                    "title"  : "Braies Lake",
+                    "preview": "assets/images/profile/braies-lake-small.jpg"
                 }
             ]
         }
